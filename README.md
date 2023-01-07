@@ -4,7 +4,7 @@
 3. [Installation](#installation)
 ### General Info
 ***
-Write down the general informations of your project. It is worth to always put a project status in the Readme file. This is where you can add it. 
+La aplicacion mapea coordenas basada en latitud y longitud desde un archivo csv debe de tener las coordenadas para poder mapearlas y agruparlas en el cluster. 
 ### Screenshot
 ![Cluster](https://i.ibb.co/Z1QBjLq/cluster.png)
 ## Technologies
