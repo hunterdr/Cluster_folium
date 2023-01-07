@@ -18,7 +18,8 @@ A little intro about the installation.
 ```
 $ git clone https://github.com/hunterdr/Cluster_folium.git
 $ cd ../path/to/the/file
-$ my_venv\scripts\activate.bat
+$ python -m venv {nombre_entorno_virtual}
+$ {nombre_entorno_virtual}\Scripts\activate.bat
 $ pip install requirements.txt
 $ python my_map.py
 ```
